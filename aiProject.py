@@ -90,3 +90,6 @@ model_data = {
 }
 
 joblib.dump(model_data, 'ag_yassi_tel.joblib')
+
+
+
